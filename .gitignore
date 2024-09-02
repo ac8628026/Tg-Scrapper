@@ -1,0 +1,6 @@
+*.env
+myenv/
+__pycache__/
+episodes/
+*dump.rdb
+*.rdb
